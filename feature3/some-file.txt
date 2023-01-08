@@ -1,0 +1,1 @@
+Line in some-file.txt in feature3 branch
