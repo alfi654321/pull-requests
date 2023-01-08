@@ -1,1 +1,3 @@
 Line in some-file.txt in feature3 branch
+
+Added another change in feature3 branch
